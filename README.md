@@ -4,7 +4,7 @@
 <a>Projeto do curso de lógica de programação da Alura, simula o site do Spotify</a>
 
 <h3>Visualização</h3>
-<a>[#!Img](http://127.0.0.1:5500/index.html/)</a>
+< img src=http://127.0.0.1:5500/index.html>
 
 🚀 Tecnologias
 <div>
