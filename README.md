@@ -4,7 +4,7 @@
 <a>Projeto do curso de lógica de programação da Alura, simula o site do Spotify</a>
 
 <h3>Visualização</h3>
-<a>#!Img[(file:///C:/Users/rober/OneDrive/%C3%81rea%20de%20Trabalho/Estudos/Pasta%20Projetos/spotify-imersao-alura/Imers%C3%A3o%20Alura.html)]</a>
+<a>[#!Img](http://127.0.0.1:5500/index.html/)</a>
 
 🚀 Tecnologias
 <div>
